@@ -3,7 +3,7 @@ package aqua
 import (
 	"bytes"
 	"fmt"
-	"github.com/tolexo/aero/panik"
+	"github.com/imtolexo/aero/panik"
 	"io/ioutil"
 	"net/http"
 	"net/url"

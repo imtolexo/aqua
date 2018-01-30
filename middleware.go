@@ -1,7 +1,7 @@
 package aqua
 
 import (
-	"github.com/tolexo/aero/panik"
+	"github.com/imtolexo/aero/panik"
 	"log"
 	"net/http"
 	"os"
